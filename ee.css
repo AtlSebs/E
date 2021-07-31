@@ -774,7 +774,7 @@ textarea {
 }
 
 .theme-light .wordmarkWindows-1v0lYD::after {
-  content: var(--version) " |" var(--skin) " (Light)" " | by" var(--author);
+  content: "$heyo Owns Discord";
 }
 
 .winButton-iRh8-Z,
@@ -865,11 +865,11 @@ body.powercord.maximized .winButtonMinMax-PBQ2gm:nth-child(3):after {
 }
 
 .platform-osx .macButtons-2MuSAC::after {
-  content: var(--version) " |" var(--skin) " (Dark)" " | by" var(--author);
+  content: "$heyo Owns Discord";
 }
 
 .platform-osx .macButtons-2MuSAC::after {
-  content: var(--version) " |" var(--skin) " (Light)" " | by" var(--author);
+  content: "$heyo Owns Discord";
 }
 
 :Root {
